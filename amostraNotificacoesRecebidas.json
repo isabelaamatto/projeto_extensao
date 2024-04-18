@@ -1,0 +1,1550 @@
+[
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "11",
+        "notificadorPrimarioNome": "LUCI RODRIGUES DA SILVA",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "39779351",
+        "notificadorPrimarioEmail": "lrsilva@saude.pmrp.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "",
+        "idadePaciente": "",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Não Especificado",
+        "ni_pesopaciente": "",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "",
+        "relatoClinico": "",
+        "evolucao": "",
+        "dataNotificacao": "05/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não",
+        "melhorouAjusteDose": "Não",
+        "reacaoReapareceuReintroducaoMedicamento": "Não",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "FARMACÊUTICO",
+        "ni_inscrconselho": "16848",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "",
+        "numeroPeri": "009273/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [],
+    "medicamentos": []
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "13",
+        "notificadorPrimarioNome": "LILIANE",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "5555-5555",
+        "notificadorPrimarioEmail": "",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "LNT",
+        "idadePaciente": "23",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "48",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "VAGINOSE",
+        "relatoClinico": "",
+        "evolucao": "TRATAMENTO DE 2 DIAS DO MEDICAMENTO, AINDA COM LEVE SINTOMAS MAS COM MELHORAS",
+        "dataNotificacao": "06/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "FARMACÊUTICO",
+        "ni_inscrconselho": "0000",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "",
+        "numeroPeri": "009294/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "DIARRÉIA LEVE DE 2 DIAS",
+        "dataInicioReacao": "05/05/2005",
+        "dataFimReacao": "06/05/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "GLITISOL",
+        "posologia": "1 ENV 500 MG",
+        "viaAdministracao": "ORAL",
+        "dataInicioUso": "04/05/2005",
+        "dataFimUso": "05/05/2005",
+        "motivoUso": "VAGINOSE",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "15",
+        "notificadorPrimarioNome": "MARGARETH M. YADA LANGUI",
+        "notificadorPrimarioDdd": "12",
+        "notificadorPrimarioTelefone": "36481912",
+        "notificadorPrimarioEmail": "yadalang@usp.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "VISA PINDAMONHANGABA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "I R C B",
+        "idadePaciente": "39",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "60",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "INSÔNIA, IRRITABILIDADE, AGITAÇÃO",
+        "relatoClinico": "",
+        "evolucao": "APÓS A INTERRUPÇÃO DO TRATAMENTO OS SINTOMAS DESAPARECERAM",
+        "dataNotificacao": "09/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não",
+        "reacaoReapareceuReintroducaoMedicamento": "Sim",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "FARMACÊUTICO",
+        "ni_inscrconselho": "19871",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "45226214000119",
+        "numeroPeri": "009434/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "INSÔNIA, IRRITABILIDADE, AGITAÇÃO",
+        "dataInicioReacao": "11/01/2004",
+        "dataFimReacao": "01/01/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "AFFINATO",
+        "posologia": "1 CÁPSULA AO DIA",
+        "viaAdministracao": "ORAL",
+        "dataInicioUso": "11/01/2004",
+        "dataFimUso": "01/01/2005",
+        "motivoUso": "TENTATIVA DE EMAGRECIMENTO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "16",
+        "notificadorPrimarioNome": "CRISTINE PILATI PILEGGI CASTRO",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "6022182",
+        "notificadorPrimarioEmail": "ciqsgr@hcrp.fmrp.usp.br",
+        "notificadorPrimarioCategoriaOutra": "GERENTE DE RISCO",
+        "notificadorSecundarioNome": "HC-FMRP-USP",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "JAL",
+        "idadePaciente": "",
+        "nascimentoPaciente": "11/06/1952",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "49",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "NEOPLASIA DE BOCA (CARCINOMA ESPINOCELULAR)",
+        "relatoClinico": "PACIENTE APRESENTOU REAÇÃO PIROGÊNICA COM FEBRE E TREMORES DURANTE A INFUSÃO DO 5-FLU",
+        "evolucao": "PACIENTE RETORNOU AO SERVIÇO SEM QUEIXAS NO DIA 20/04/2005.",
+        "dataNotificacao": "09/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "OUTRO",
+        "ni_inscrconselho": "95149",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Complementar - Nº último NF/Comprovante: ",
+        "cnpjEmpresa": "56023443000152",
+        "numeroPeri": "009311/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "NÃO INFORMA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "TREMORES/FEBRE/REAÇÃO PIROGÊNICA",
+        "dataInicioReacao": "11/04/2005",
+        "dataFimReacao": "11/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "5-FLUORACIL 250 MG",
+        "posologia": "600 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "11/04/2005",
+        "dataFimUso": "11/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": "410/0032R",
+        "fabricante": "ICN FARMACEUTICA LTDA"
+      },
+      {
+        "medicamento": "CISPLATINA",
+        "posologia": "30 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "11/04/2005",
+        "dataFimUso": "11/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "ONDASSETRONA",
+        "posologia": "16 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "11/04/2005",
+        "dataFimUso": "11/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "17",
+        "notificadorPrimarioNome": "CRISTINE PILATI PILEGGI CASTRO",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "6022182",
+        "notificadorPrimarioEmail": "ciqsgr@hcrp.fmrp.usp.br",
+        "notificadorPrimarioCategoriaOutra": "MÉDICO - GERENTE DE RISCO",
+        "notificadorSecundarioNome": "HC-FMRP-USP",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "MASMB",
+        "idadePaciente": "",
+        "nascimentoPaciente": "01/12/1961",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "62",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "ADENOCARCINOMA DE COLON",
+        "relatoClinico": "TREMOR E RUBOR DURANTE A INFUSÃO DA QT",
+        "evolucao": "PACIENTE CONSULTOU EM 15/04/2005 ASSINTOMÁTICO",
+        "dataNotificacao": "09/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "OUTRO",
+        "ni_inscrconselho": "95149",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Complementar - Nº último NF/Comprovante: ",
+        "cnpjEmpresa": "56023443000152",
+        "numeroPeri": "009297/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "NÃO INFORMA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "TREMORES/REAÇÃO CUTÂNEA/RUBOR",
+        "dataInicioReacao": "11/04/2005",
+        "dataFimReacao": "11/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "5-FLUOURACIL 250MG",
+        "posologia": "750 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "11/04/2005",
+        "dataFimUso": "11/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": "410/0032R",
+        "fabricante": "I"
+      },
+      {
+        "medicamento": "CISPLATINA",
+        "posologia": "30 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "11/04/2005",
+        "dataFimUso": "11/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "ONDASSETRONA",
+        "posologia": "16 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "11/04/2005",
+        "dataFimUso": "11/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "18",
+        "notificadorPrimarioNome": "CRISTINE PILATI PILEGGI CASTRO",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "6022182",
+        "notificadorPrimarioEmail": "ciqsgr@hcrp.fmrp.usp.br",
+        "notificadorPrimarioCategoriaOutra": "MÉDICO - GERENTE DE RISCO",
+        "notificadorSecundarioNome": "HC-FMRP-USP",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "AAT",
+        "idadePaciente": "",
+        "nascimentoPaciente": "25/10/1958",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "95",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "NEOPLASIA DE RETO",
+        "relatoClinico": "TREMORES E CEFALEIA DURANTE A QUIMIOTERAPIA.",
+        "evolucao": "PACIENTE RETORNOU EM 05/05/2005 ASSINTOMATICO.",
+        "dataNotificacao": "09/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "OUTRO",
+        "ni_inscrconselho": "95149",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Complementar - Nº último NF/Comprovante: SINEPS",
+        "cnpjEmpresa": "56023443000152",
+        "numeroPeri": "009427/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "NÃO INFORMA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "TREMORES/CEFALÉIA",
+        "dataInicioReacao": "07/04/2005",
+        "dataFimReacao": "07/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "5-FLUORURACIL 250MG",
+        "posologia": "850 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": "410/0032R",
+        "fabricante": "ICN FARMACEUTICA LTDA"
+      },
+      {
+        "medicamento": "ONDASSETRONA",
+        "posologia": "8 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "ACIDO FOLINICO",
+        "posologia": "40 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "SORO GLICOSADO 5%",
+        "posologia": "500 ML",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "19",
+        "notificadorPrimarioNome": "CRISTINE PILATI PILEGGI CASTRO",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "6022182",
+        "notificadorPrimarioEmail": "ciqsgr@hcrp.fmrp.usp.br",
+        "notificadorPrimarioCategoriaOutra": "MÉDICO - GERENTE DE RISCO",
+        "notificadorSecundarioNome": "HC-FMRP-USP",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "WG",
+        "idadePaciente": "",
+        "nascimentoPaciente": "07/07/1938",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "90",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "CARCINOMA DE PROSTATA E AMIGDALAS",
+        "relatoClinico": "TREMORES NA INFUSÃO DA QT.",
+        "evolucao": "PACIENTE AINDA NÃO RETORNOU AO SERVIÇO.",
+        "dataNotificacao": "09/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "OUTRO",
+        "ni_inscrconselho": "95149",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Complementar - Nº último NF/Comprovante: SINEPS",
+        "cnpjEmpresa": "56023443000152",
+        "numeroPeri": "009426/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "NÃO INFORMA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "TREMORES",
+        "dataInicioReacao": "08/04/2005",
+        "dataFimReacao": "08/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "5-FLUORURACIL 250MG",
+        "posologia": "800 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "08/04/2005",
+        "dataFimUso": "08/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": "410/0032R",
+        "fabricante": "ICN FARMACEUTICA LTDA"
+      },
+      {
+        "medicamento": "ONDASSETRONA",
+        "posologia": "8 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "08/04/2005",
+        "dataFimUso": "08/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "SORO FISIOLOGICO 0.9%",
+        "posologia": "1000 ML",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "08/04/2005",
+        "dataFimUso": "08/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "20",
+        "notificadorPrimarioNome": "CRISTINE PILATI PILEGGI CASTRO",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "6022182",
+        "notificadorPrimarioEmail": "ciqsgr@hcrp.fmrp.usp.br",
+        "notificadorPrimarioCategoriaOutra": "MÉDICO - GERENTE DE RISCO",
+        "notificadorSecundarioNome": "HC-FMRP-USP",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "UPF",
+        "idadePaciente": "",
+        "nascimentoPaciente": "25/08/1953",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "119",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "CARCINOMA",
+        "relatoClinico": "FEBRE E TREMORES DURANTE A QT.",
+        "evolucao": "RETORNOU DIA 05/05/2005 ASSINTOMATICO.",
+        "dataNotificacao": "09/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "OUTRO",
+        "ni_inscrconselho": "95149",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Complementar - Nº último NF/Comprovante: SINEPS",
+        "cnpjEmpresa": "56023443000152",
+        "numeroPeri": "009432/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "NÃO INFORMA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "FEBRE E TREMORES",
+        "dataInicioReacao": "07/04/2005",
+        "dataFimReacao": "07/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "5-FLUORURACIL 250MG",
+        "posologia": "750 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": "410/0032R",
+        "fabricante": "ICN FARMACEUTICA LTDA"
+      },
+      {
+        "medicamento": "SORO GLICOSADO 5%",
+        "posologia": "500 ML",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "ACIDO FOLINICO",
+        "posologia": "35 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "ONDASSETRONA",
+        "posologia": "8 MG",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "07/04/2005",
+        "dataFimUso": "07/04/2005",
+        "motivoUso": "QUIMIOTERAPIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "21",
+        "notificadorPrimarioNome": "CRISTINE PILATI PILEGGI CASTRO",
+        "notificadorPrimarioDdd": "16",
+        "notificadorPrimarioTelefone": "6022182",
+        "notificadorPrimarioEmail": "ciqsgr@hcrp.fmrp.usp.br",
+        "notificadorPrimarioCategoriaOutra": "MÉDICO - GERENTE DE RISCO",
+        "notificadorSecundarioNome": "HC-FMRP-USP",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "",
+        "idadePaciente": "",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Não Especificado",
+        "ni_pesopaciente": "",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "",
+        "relatoClinico": "",
+        "evolucao": "",
+        "dataNotificacao": "10/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não",
+        "melhorouAjusteDose": "Não",
+        "reacaoReapareceuReintroducaoMedicamento": "Não",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "OUTRO",
+        "ni_inscrconselho": "95149",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "56023443000152",
+        "numeroPeri": "000000/2006"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [],
+    "medicamentos": []
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "22",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "SOLANGE MARTINS",
+        "idadePaciente": "",
+        "nascimentoPaciente": "06/10/1968",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "50",
+        "numeroRelato": "448.164",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "ERITRODERMIA ICTIOSIDERME BOLHOSA CONGENITA",
+        "relatoClinico": "CLIENTE PORTADORA DE DEPRESSÃO EM USO DE ANAFRANIL (25MG_4XDIA) INICIOU EM 19/02/05 USO DE MEDICAÇÕES SUSPEITAS DESCRITAS ACIMA. EM 19/04/05 DEU ENTRADA NESTE SERVIÇO DE SAÚDE COM QUADO DE LESÕES ERITEMATO DESCAMATIVAS VESÍCULAS E PÚSTULAS POR TODA SUPERFÍCIE CORPÓREA. DADOS LABORATORIAIS NÃO RELEVANTES PARA O CASO.",
+        "evolucao": "LABORATORIAIS NÃO RELEVANTES PARA O CASO.",
+        "dataNotificacao": "02/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009436/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "PLACAS ERITEMATOSAS DESCAMATIVAS COM",
+        "dataInicioReacao": "19/04/2005",
+        "dataFimReacao": "02/05/2005",
+        "recuperacao": false
+      },
+      {
+        "reacao": "VESICULAS E PÚSTULAS",
+        "dataInicioReacao": "19/04/2005",
+        "dataFimReacao": "02/05/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "CARBAMAZEPINA",
+        "posologia": "200MG 12/12H",
+        "viaAdministracao": "ORAL",
+        "dataInicioUso": "19/02/2005",
+        "dataFimUso": "19/04/2005",
+        "motivoUso": "ANTIEPILÉPTICO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "NEULEPTIL",
+        "posologia": "3 GTS 3 X AO DIA",
+        "viaAdministracao": "ORAL",
+        "dataInicioUso": "19/02/2005",
+        "dataFimUso": "19/04/2005",
+        "motivoUso": "NEUROLÉPTICO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "23",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "ANDRE CRISTIANO DA COSTA",
+        "idadePaciente": "",
+        "nascimentoPaciente": "06/03/1981",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "70",
+        "numeroRelato": "416.924",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "CONTUSÃO DE QUADRIL",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE TRAZIDO PELO RESGATE APÓS ACIDENTE AUTOMOBILÍSTICO, DEVIDO A FRATURA DE TIBIA A (D)   ACETABULO (D), FOI REALIZADO TRATAMENTO CIRURGICO EM 26/04/05.",
+        "evolucao": "CLIENTE APRESENTOU ÊMESE APÓS ADMINISTRAÇÃO DE MEDICAMENTO SUSPEITO, SENDO COMUNICADO MÉDICO PLANTONISTA QUE PRESCREVEU PLASIL 1 AMP. (EV) 8/8H APÓS ADMINISTRAÇÃO DE MEDICAÇÃO SUSPEITA.APRESENTANDO MELHORA DO EVENTO E RECEBENDO ALTA HOSPITALAR EM 02/05/05.",
+        "dataNotificacao": "02/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009302/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "TABAGISMO"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "ÊMESE",
+        "dataInicioReacao": "27/04/2005",
+        "dataFimReacao": "28/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "CLINDAMICINA",
+        "posologia": "600MG 6/6H",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "26/04/2005",
+        "dataFimUso": "02/05/2005",
+        "motivoUso": "ANTIBIOTICOTERAPIA POR FO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "24",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "INEUZA RODRIGUES DE SATELITE",
+        "idadePaciente": "49",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "87",
+        "numeroRelato": "456.200",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "BRONCOPNEUMONIA NE",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, COM QUADRO DE DISPNÉIA AOS PEQUENOS ESFORÇOS, FALTA DE AR, TOSSE, CIANOSE DISTAL E QUEDA DO ESTADO GERAL. REFERE INTERNAÇÃO ANTERIOR HÁ 3 ANOS POR DERRAME PLEURAL E HÁ 1 ANO POR BCP,REFERE REAÇÕES ADVERSAS PRÉVIAS AO USO DE BEROTEC, EVOLUINDO COM QUADRO DE TAQUICARDIA E EDEMA DE LÁBIO SUPERIOR E PÁPULAS. RELATA FAZER USO DE CAPTOPRIL 25MG 2 X AO DIA E SALBUTAMOL 1 X CEDO.",
+        "evolucao": "CLIENTE APRESENTOU EDEMA DE LÁBIOS SUSPERIOR E PÁPULAS, E TAQUICARDIA APÓS USO DE MEDICAÇÃO SUSPEITA. COMUNICADO MÉDICO PLANTONISTA QUE SUSPENDEU MEDICAÇÃO SUSPEITA.",
+        "dataNotificacao": "02/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Sim",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009303/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "HIPERTENSÃO ARTERIAL"
+      },
+      {
+        "doencaConcomitante": "CARDIOPATIA"
+      },
+      {
+        "doencaConcomitante": "OUTRA - RAM PRÉVIA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "EDEMA DE LÁBIO SUPERIOR + PAPULAS + TAQUICARDIA",
+        "dataInicioReacao": "25/04/2005",
+        "dataFimReacao": "26/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "BEROTEC",
+        "posologia": "8 GOTAS 6/6H",
+        "viaAdministracao": "INALATÓRIA",
+        "dataInicioUso": "25/04/2005",
+        "dataFimUso": "26/04/2005",
+        "motivoUso": "BRONCODILATADOR",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "25",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "",
+        "idadePaciente": "",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Não Especificado",
+        "ni_pesopaciente": "",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, COM QUADRO DE DISPNÉIA AOS PEQUENOS ESFORÇOS, FALTA DE AR, TOSSE, CIANOSE DISTAL E QUEDA DO ESTADO GERAL. REFERE INTERNAÇÃO ANTERIOR HÁ 3 ANOS POR DERRAME PLEURAL E HÁ 1 ANO POR BCP,REFERE REAÇÕES ADVERSAS PRÉVIAS AO USO DE BEROTEC, EVOLUINDO COM QUADRO DE TAQUICARDIA E EDEMA DE LÁBIO SUPERIOR E PÁPULAS. RELATA FAZER USO DE CAPTOPRIL 25MG 2 X AO DIA E SALBUTAMOL 1 X CEDO.",
+        "evolucao": "CLIENTE APRESENTOU EDEMA DE LÁBIOS SUSPERIOR E PÁPULAS, E TAQUICARDIA APÓS USO DE MEDICAÇÃO SUSPEITA. COMUNICADO MÉDICO PLANTONISTA QUE SUSPENDEU MEDICAÇÃO SUSPEITA.",
+        "dataNotificacao": "02/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Sim",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": null
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "HIPERTENSÃO ARTERIAL"
+      },
+      {
+        "doencaConcomitante": "CARDIOPATIA"
+      },
+      {
+        "doencaConcomitante": "OUTRA - RAM PRÉVIA"
+      }
+    ],
+    "reacoes": [],
+    "medicamentos": []
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "26",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "DIEGO HIPOLITO ZABALAGA RODRIGUEZ",
+        "idadePaciente": "",
+        "nascimentoPaciente": "25/12/1983",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "",
+        "numeroRelato": "390.669",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "PNEUMONIA NE",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, COM HISTÓRIA DE TOSSE PRODUTIVA COM ESCARRO ESBRANQUIÇADO E FEBRE HÁ 07 DIAS, ALÉM DE DOR TORÁCICA; APRESENTAVA-SE COM DISPNÉIA AOS MÍNIMOS ESFORÇOS. EVOLUIU DURANTE INTERNAÇÃO COM DERRAME PLEURAL SENDO NECESSÁRIO DRENAGEM TORÁCICA EM 20/03/05. NO DIA 07/04/05, NECESSITOU DE NOVA DRENAGEM SENDO, EM SEGUIDA ENCAMINHADO À CIRURGIA TORÁCICA E MANTÊM-SE COM ASPIRAÇÃO CONTINUA DE DRENO TORÁCICO DESDE 21/04/05.",
+        "evolucao": "CLIENTE APRESENTOU URTICÁRIA EM TODA EXTENSÃO CORPÓREA, APÓS USO DE MEDICAÇÃO SUSPEITA, SENDO COMUNICADO MÉDICO PLANTONISTA QUE SUSPENDEU MEDICAÇÃO SUSPEITA E SOLICITOU AVALIAÇÃO DO CLÍNICO GERAL, QUE PRESCREVEU DEXAMETASONA CREME TÓPICO 2 X AO DIA.",
+        "dataNotificacao": "05/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009305/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "URTICÁRIA",
+        "dataInicioReacao": "29/04/2005",
+        "dataFimReacao": "09/05/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "CEFALOTINA",
+        "posologia": "1G 6/6",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "08/04/2005",
+        "dataFimUso": "29/04/2005",
+        "motivoUso": "TRATAMENTO DE INSUFICIÊNCIA PULMONAR APÓS DRENAGEM",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "27",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "THIAGO JOSÉ DA SILVA",
+        "idadePaciente": "3",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "16",
+        "numeroRelato": "469.303",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "FEBRE NE",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, TRAZIDO PELO RESGATE, APRESENTANDO FEBRE HÁ 1 DIA E PIORA DO PADRÃO RESPIRATÓRIO. APÓS ADMINISTRAÇÃO DE MEDICAÇÃO SUSPEITA CLIENTE APRESENTOU RASH CUTÂNEO EM TODA EXTENSÃO CORPÓREA, SENDO COMUNICADO MÉDICO PLANTONISTA QUE SUSPENDEU MEDICAMENTO SUSPEITO E PRESCREVEU FENERGAN 7MG (IM) AGORA (18H50), HIDROCORTIZONA 150MG (EV) 6/6H. DADOS LABORATORIAS NÃO RELEVANTES.",
+        "evolucao": "CLIENTE APRESENTOU RASH CUTÂNEO EM TODA EXTENSÃO CORPÓREA, APÓS ADMINISTRAÇÃO DE MEDICAÇÃO SUSPEITA, SENDO COMUNICADO MÉDICO PLANTONISTA QUE SUSPENDEU MEDICAMENTO SUSPEITO E PRESCREVEU FENERGAN 7MG (IM) AGORA (18H50), HIDROCORTIZONA 150MG (EV) 6/6H.",
+        "dataNotificacao": "06/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009306/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "RASH CUTÂNEO",
+        "dataInicioReacao": "05/03/2005",
+        "dataFimReacao": "00:00:00",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "OXACILINA",
+        "posologia": "900MG 6/6H",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "05/03/2005",
+        "dataFimUso": "05/05/2005",
+        "motivoUso": "ATB P/ BCP",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "28",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "ANDRÉ PAULINO CARDOSO",
+        "idadePaciente": "23",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "75",
+        "numeroRelato": "473.116",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "ABDOMEM AGUDO",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, COM HISTÓRIA DE DOR ABDOMINAL DIFUSA DE GRANDE INTENSIDADE E ÊMESE; DIAGNOSTICADO ABDOMEM AGUDO E ENCAMINHADO À LAPAROTOMIA EXPLORADORA, ONDE FOI CONFIRMADO APENDICITE FASE III, SENDO REALIZADO APENDICECTOMIA. CLIENTE RELATA INTERNAÇÕES ANTERIORES HÁ 06 MESES POR DOR ABDOMINAL, SENDO DIAGNOSTICADO GASTRITE EM USO DE OMEPRAZOL 1 X AO DIA. REFERE SER TABAGISTA, FUMANDO QUASE 1 MAÇO AO DIA. APÓS USO DE MEDICAÇÃO SUSPEITA, CLIENTE REFERE TER APRESENTADO MAL ESTAR.",
+        "evolucao": "CLIENTE REFERE MAL ESTAR, APÓS USO DE MEDICAÇÃO SUSPEITA, SENDO COMUNICADO MÉDICO PLANTONISTA, QUE SUSPENDEU MEDICAMENTO SUSPEITO.",
+        "dataNotificacao": "05/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Sim",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009307/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "TABAGISMO"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "MAL ESTAR",
+        "dataInicioReacao": "04/05/2005",
+        "dataFimReacao": "04/05/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "PLASIL",
+        "posologia": "1AMP. 8/8H",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "04/05/2005",
+        "dataFimUso": "04/05/2005",
+        "motivoUso": "ANTIEMÉTICO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "29",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "MARIZELIA PEREIRA DA SILVA",
+        "idadePaciente": "46",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "88",
+        "numeroRelato": "480.723",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "RETOCELE",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSOS SERVIÇO DE SAÚDE, PARA TRATAMENTO CIRÚRGICO, ONDE FOI REALIZADO COLPOPERINEOPLASTIA POSTERIOR. RELATA QUE HÁ 20 ANOS REALIZOU CIRURGIA DE LAQUEADURA E APRESENTOU ÊMESE APÓS ANESTESIA. CLIENTE FOI SUBMETIDA A ANESTESIA RAQUI   SEDAÇÃO ÀS 09H45, PARA REALIZAÇÃO CIRURGICA, COM TÉRMINO ÀS 10H55. AS 13H15 APRESENTOU ÊMESE, SENDO COMUNICADO MÉDICO PLANTONISTA, QUE PRESCREVEU PLASIL 1 AMP. (EV) APÓS EPISÓDIO DE ÊMESE.",
+        "evolucao": "CLIENTE FOI SUBMETIDA A ANESTESIA RAQUI   SEDAÇÃO ÀS 09H45, PARA REALIZAÇÃO CIRURGICA, COM TÉRMINO ÀS 10H55. AS 13H15 APRESENTOU ÊMESE, SENDO COMUNICADO MÉDICO PLANTONISTA, QUE PRESCREVEU PLASIL 1 AMP. (EV) APÓS EPISÓDIO DE ÊMESE.",
+        "dataNotificacao": "10/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Sim",
+        "prolongouInternacao": "Sim",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não se aplica ou é desconhecido",
+        "melhorouAjusteDose": "Não se aplica ou é desconhecido",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009308/2005"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "OUTRA - RAM PRÉVIA"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "ÊMESE",
+        "dataInicioReacao": "05/10/2005",
+        "dataFimReacao": "11/05/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "BUPIVACAÍNA",
+        "posologia": "20MG",
+        "viaAdministracao": "EPIDURAL",
+        "dataInicioUso": "10/05/2005",
+        "dataFimUso": "10/05/2005",
+        "motivoUso": "ANESTÉSICO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "MORFINA",
+        "posologia": "0,08",
+        "viaAdministracao": "EPIDURAL",
+        "dataInicioUso": "10/05/2005",
+        "dataFimUso": "10/05/2005",
+        "motivoUso": "ANALGESIA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "30",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563-6300",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "SANDRA DA SILVA FELIX",
+        "idadePaciente": "",
+        "nascimentoPaciente": "23/02/1977",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "73",
+        "numeroRelato": "4807/03",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "PELVE",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, PARA TRATAMENTO CIRÚRGICO, SENDO REALIZADO SALPINGECTOMIA A (D), NEGA QUALQUER PATOLOGIA E INTERNAÇÕES ANTERIORES.",
+        "evolucao": "CLIENTE FOI SUBMETIDA A ANESTESIA RAQUI   SEDAÇÃO (BUPIVACAÍNA 20MG - ESPINHAL / SULFENTANIL 3MG - ESPINHAL / MIDAZOLAN 2,5MG (EV)), ÀS 08H00 PARA CIRURGIA COM TÉRMINO AS 09H40, RECEBENDO ALTA DO CENTRO CIRÚRGICO AS 13H45, NA UNIDADE DE INTERNAÇÃO, APRESENTOU ÊMESE, SENDO COMUNICADO MÉDICO PLANTONISTA QUE PRESCREVEU PLASIL 1 AMP. (EV) S/N.",
+        "dataNotificacao": "10/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não",
+        "melhorouAjusteDose": "Não",
+        "reacaoReapareceuReintroducaoMedicamento": "Não",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009309/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "ÊMESE",
+        "dataInicioReacao": "05/10/2005",
+        "dataFimReacao": "05/10/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "BUPIVACAÍNA",
+        "posologia": "20MG",
+        "viaAdministracao": "EPIDURAL",
+        "dataInicioUso": "10/05/2005",
+        "dataFimUso": "10/05/2005",
+        "motivoUso": "ANESTÉSICO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      },
+      {
+        "medicamento": "SUFENTANIL",
+        "posologia": "3MG",
+        "viaAdministracao": "EPIDURAL",
+        "dataInicioUso": "10/05/2005",
+        "dataFimUso": "10/05/2005",
+        "motivoUso": "SEDAÇÃO",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "31",
+        "notificadorPrimarioNome": "DANIELE CRISTINE CAMPOS",
+        "notificadorPrimarioDdd": "11",
+        "notificadorPrimarioTelefone": "6563",
+        "notificadorPrimarioEmail": "farmacoitaim@uol.com.br",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "HOSPITAL GERAL DO ITAIM PAULISTA - OSS SANTA MARCELINA",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "DORIS DEIE DE ARAÚJO",
+        "idadePaciente": "39",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Feminino",
+        "ni_pesopaciente": "65",
+        "numeroRelato": "414.582",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "HISTORIA PESSOAL DE OUTROS TRAUMAS FÍSICOS",
+        "relatoClinico": "CLIENTE DEU ENTRADA EM NOSSO SERVIÇO DE SAÚDE, TRAZIDO PELO RESGATE DEVIDO A ACIDENTE AUTOMOBILÍSTICO. FOI SUBMETIDA A TRATAMENTO CIRÚRGICO COM AMPUTAÇÃO DE COXA (E) POR ESMAGAMENTO DA PERNA (E) E DESLUVAMENTO DA PERNA E COXA (E). APÓS 3 DIAS DE CIRURGIA , INICIOU COM INFECÇÃO DA INCISÃO CIRÚRGICA. NO DIA 06/05/05, FOI FEITO ENXERTO DE PELE MI (E).",
+        "evolucao": "CLIENTE INICIOU COM EPISÓDIOS DE FEBRE, APÓS ALGUNS DIAS DE USO DA MEDICAÇÃO SUSPEITA, SUSPENSO PELO MÉDICO PLANTONISTA MEDICAMENTO SUSPEITO DEVIDO OS RESULTADOS DOS EXAMES, LOGO CLIENTE APRESENTOU MELHORA DO EVENTO ADVERSO.",
+        "dataNotificacao": "10/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não",
+        "melhorouAjusteDose": "Não",
+        "reacaoReapareceuReintroducaoMedicamento": "Não",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "ENFERMEIRO",
+        "ni_inscrconselho": "113.538",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "60742616000674",
+        "numeroPeri": "009310/2005"
+      }
+    ],
+    "doencasConcomitantes": [],
+    "reacoes": [
+      {
+        "reacao": "HIPERTERMIA",
+        "dataInicioReacao": "05/04/2022",
+        "dataFimReacao": "25/04/2005",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "VANCOMICINA",
+        "posologia": "1G 12/12H",
+        "viaAdministracao": "ENDOVENOSA",
+        "dataInicioUso": "04/04/2005",
+        "dataFimUso": "24/04/2005",
+        "motivoUso": "ATB P/ TTO INFECÇÃO CIRÚRGICA",
+        "loteMedicamento": " ",
+        "fabricante": " "
+      }
+    ]
+  },
+  {
+    "notificacao": [
+      {
+        "notificacaoId": "32",
+        "notificadorPrimarioNome": "DANIELA BATAGIN SANTAROSA",
+        "notificadorPrimarioDdd": "19",
+        "notificadorPrimarioTelefone": "3405-1904",
+        "notificadorPrimarioEmail": "daniela_batagin@hotmail.com",
+        "notificadorPrimarioCategoriaOutra": "",
+        "notificadorSecundarioNome": "",
+        "notificadorSecundarioRespRelato": null,
+        "notificadorSecundarRespFuncao": null,
+        "notificadorSecundarRespDdd": null,
+        "notificadorSecundarRespTelefone": null,
+        "notificadorSecundarRespEmail": null,
+        "notificadorSecundarMunicipio": null,
+        "notificadorSecundarUf": null,
+        "nomePaciente": "LUIZ FERNANDO ZACHARIAS DOMINGUES",
+        "idadePaciente": "44",
+        "nascimentoPaciente": "00:00:00",
+        "sexoPaciente": "Masculino",
+        "ni_pesopaciente": "85",
+        "numeroRelato": "",
+        "tempoGestacao": "",
+        "diagnosticoPrincipal": "ANEMIA NORMOCÍTICA NORMOCRÔMICA",
+        "relatoClinico": "DADOS LABORATORIAIS: HEMATÓCRITO 35,5 E HEMOGLOBINA 10,5",
+        "evolucao": "ASTENIA, FADIGA, CANSAÇO PROGRESSIVAMENTE NOS ÚLTIMOS 2 ANOS",
+        "dataNotificacao": "18/05/2005",
+        "causouObito": "Não",
+        "causaMortis": "",
+        "causouInternacao": "Não",
+        "prolongouInternacao": "Não",
+        "riscoDeMorte": "Não",
+        "melhorouRetiradaMedicamento": "Não se aplica ou é desconhecido",
+        "melhorouAjusteDose": "Não",
+        "reacaoReapareceuReintroducaoMedicamento": "Não se aplica ou é desconhecido",
+        "informaAlergia": false,
+        "citeAlergia": "",
+        "alergiaMedicamento": false,
+        "categoriaProfissional": "FARMACÊUTICO",
+        "ni_inscrconselho": "20768",
+        "notificadorPrimarioUf": "SP",
+        "tipoNotificacao": "Inicial",
+        "cnpjEmpresa": "",
+        "numeroPeri": "007051/2006"
+      }
+    ],
+    "doencasConcomitantes": [
+      {
+        "doencaConcomitante": "HIPERTENSÃO ARTERIAL"
+      }
+    ],
+    "reacoes": [
+      {
+        "reacao": "ANEMIA NORMOCÍTICA NORMOCRÔMICA",
+        "dataInicioReacao": "03/01/2003",
+        "dataFimReacao": "00:00:00",
+        "recuperacao": false
+      }
+    ],
+    "medicamentos": [
+      {
+        "medicamento": "CANDESARTANA",
+        "posologia": "1 CP 16MG/DIA",
+        "viaAdministracao": "ORAL",
+        "dataInicioUso": "06/01/2002",
+        "dataFimUso": "00:00:00",
+        "motivoUso": "HIPERTENSÃO",
+        "loteMedicamento": "------------",
+        "fabricante": "ASTRAZENECA"
+      },
+      {
+        "medicamento": "HIDROCLOROTIAZIDA",
+        "posologia": "1 CP 12,5MG/DIA",
+        "viaAdministracao": "ORAL",
+        "dataInicioUso": "06/01/2002",
+        "dataFimUso": "00:00:00",
+        "motivoUso": "HIPERTENSÃO",
+        "loteMedicamento": "_________",
+        "fabricante": "FURP"
+      }
+    ]
+  }
+]
