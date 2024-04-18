@@ -1,1 +1,5 @@
 # projeto_extensao
+A tabela "DADOS_ABERTOS_MEDICAMENTOS" foi obtida do Portal de Dados Abertos do Governo Federal, na sessão de medicamentos registrados no Brasil, atrvés do link 'https://dados.gov.br/dados/conjuntos-dados/medicamentos-registrados-no-brasil'. Essa tabela foi organizada pela ANVISA, sendo a data da última atualização desse banco de dados feita em 12/01/2023.
+Essa tabela será utilizada como base para filtrar os medicamentos de interesse, das classes antimicrobianos e psicotrópicos e que estejam com o registro válido, dos dados fornecidos pelo CVS (Centro de Vigilância Sanitária).
+A tabela 'lista_medicamentos' foi construída a partir dos medicamentos listados na Instrução Normativa 244 de 2023 e nas listas A3, B1 e B2 da Portaria 344 (atualizada em 2023).
+O arquvio 'amostraNotificacoesRecebidas.json' representa uma amostra, fornecida pelo CVS, do banco de dados que será anlisado.
