@@ -15,7 +15,8 @@ len(auth)
 auth[0].keys()
 
 # exibir os valores para cada chave
-auth[0]['notificacao']
-auth[0]['medicamentos']
-auth[0]['reacoes']
-auth[0]['doencasConcomitantes']
+auth[1]['notificacao']
+auth[1]['medicamentos']
+auth[1]['reacoes']
+auth[1]['doencasConcomitantes']
+
