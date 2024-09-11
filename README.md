@@ -22,3 +22,8 @@ Planilhas da ANVISA com os dados abertos utilizados no projeto. Futuramente ser�
 Arquivo com as variáveis de interesse para cada arquivo VigiMed
 #### "vigimed.ipynb"
 Scrit da análise dos dados das planilhas VigiMed (Notificações, Medicamentos e Reações). Utilização dos dicionários de medicamentos e reações adversas.
+#### Gráficos: os arquivos a seguir contém gráficos produzidos pela análise dos dados VigiMed
+- medicamentos_missing_filled.pdf e medicamentos_missing_filled_editado.svg
+- notificacoes_missing_filled.pdf e notificacoes_missing_filled_editado.svg
+- reacoes_missing_filled.pdf e reacoes_missing_filled_editado.svg
+Gráficos originais e editados da análise do preenchimento das colunas das tabelas "VigiMed_Medicamentos.csv", "VigiMed_Notificacoes.csv" e "VigiMed_Reacoes.csv". Os gráficos apresentam a quantidade de linhas preenchidas e não preenchidas para cada coluna das tabelas.
